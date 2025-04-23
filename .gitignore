@@ -1,0 +1,6 @@
+debricked.*
+*.debricked.*
+debricked-call-graph.java
+.debricked
+.debrickedTmpFolder
+target
