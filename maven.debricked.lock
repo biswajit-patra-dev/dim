@@ -1,0 +1,8 @@
+296954388 rtes:dim:jar:1.0-SNAPSHOT
+473163048 junit:junit:jar:3.8.1:test
+1478493964 org.apache.logging.log4j:log4j-core:jar:2.14.1:compile
+874548138 org.apache.logging.log4j:log4j-api:jar:2.20.0:compile
+#
+296954388 473163048 test
+296954388 1478493964 compile
+296954388 874548138 compile
